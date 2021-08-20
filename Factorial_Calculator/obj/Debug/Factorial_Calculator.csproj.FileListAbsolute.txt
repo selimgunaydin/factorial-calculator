@@ -1,0 +1,19 @@
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\WindowsFormsApp10\obj\Debug\Factorial_Calculator.Properties.Resources.resources
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\WindowsFormsApp10\obj\Debug\Factorial_Calculator.csproj.GenerateResource.cache
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\WindowsFormsApp10\obj\Debug\Factorial_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\WindowsFormsApp10\obj\Debug\Factorial Calculator.exe
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\WindowsFormsApp10\obj\Debug\Factorial Calculator.pdb
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\WindowsFormsApp10\bin\Debug\Factorial Calculator.exe.config
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\WindowsFormsApp10\bin\Debug\Factorial Calculator.exe
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\WindowsFormsApp10\bin\Debug\Factorial Calculator.pdb
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\bin\Debug\Factorial Calculator.exe.config
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\bin\Debug\Factorial Calculator.exe
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\bin\Debug\Factorial Calculator.pdb
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\obj\Debug\Factorial_Calculator.csproj.AssemblyReference.cache
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\obj\Debug\Factorial_Calculator.Properties.Resources.resources
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\obj\Debug\Factorial_Calculator.csproj.GenerateResource.cache
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\obj\Debug\Factorial_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\obj\Debug\Factorial Calculator.exe
+C:\Users\selim\Desktop\SEL1M\Ödevler\Nesne Final\1. Soru\VS Klasörü\Factorial_Calculator\obj\Debug\Factorial Calculator.pdb
